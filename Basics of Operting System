@@ -1,4 +1,4 @@
-The basics of an operating system (OS) revolve around its core functions and components, which are essential for managing computer hardware, software, and user interactions. Here are the fundamental concepts and components of an operating system:
+The fundamental concepts and components of an operating system:
 
 1.Kernel: The kernel is the central component of an OS that manages hardware resources and provides essential services to applications. It handles tasks such as process scheduling, memory management, device management, and file system access.
 
